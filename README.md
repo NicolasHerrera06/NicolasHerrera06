@@ -12,11 +12,11 @@ Tengo 32 años. Vivo en San Miguel (prov.BsAs). Trabajo hace 5 años en IT, en e
 
 Tengo conocimiento en: 
 
-💾 Bases de datos (SQL Server, Teradata, Sybase IQ, IBM Netezza). 
-💻 Herramientas de ETL: Ab Initio, SAP Data Services. 
-🖥 Sistemas operativos UNIX (AIX), Linux. 
-📊 Herramientas de visualización: Power BI.
-🐍 Lenguajes de programación: Python(Numpy, Pandas), Java, Javascript.
+- 💾 Bases de datos (SQL Server, Teradata, Sybase IQ, IBM Netezza). 
+- 💻 Herramientas de ETL: Ab Initio, SAP Data Services. 
+- 🖥 Sistemas operativos UNIX (AIX), Linux. 
+- 📊 Herramientas de visualización: Power BI.
+- 🐍 Lenguajes de programación: Python(Numpy, Pandas), Java, Javascript.
 
 
 <!--
