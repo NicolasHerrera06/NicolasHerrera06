@@ -4,7 +4,7 @@ Hola, Yo soy Nicolás Herrera soy Data Engineer y deseo que tu puedas encontrar 
 
 Un poco más sobre mí:
 
-Me llamo Nicolás. Tengo 32 años. Vivo en San Miguel (prov.BsAs). Trabajo hace 5 años en IT, en el área de datos en clientes del sector bancario.
+Tengo 32 años. Vivo en San Miguel (prov.BsAs). Trabajo hace 5 años en IT, en el área de datos en clientes del sector bancario.
 
 📖 Soy una persona que le gusta estar en constante aprendizaje para formarme y crecer profesionalmente. 
 
