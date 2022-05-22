@@ -1,6 +1,6 @@
 ### Bienvenido a my perfil :P 👋
 
-Hola, Yo soy Nicolás Herrera soy Data Engineer y deseo que tu puedas encontrar usos con mis repositorios publicos. 
+Hola, soy Nicolás Herrera, soy Data Engineer y deseo que tu puedas encontrar usos con mis repositorios publicos. 
 
 Un poco más sobre mí:
 
