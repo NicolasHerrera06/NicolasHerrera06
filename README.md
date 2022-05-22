@@ -1,8 +1,8 @@
-### Bienvenido a my perfil :P 👋
+### Bienvenido a mi perfil :P 👋
 
 Hola, soy Nicolás Herrera, soy Data Engineer y deseo que tu puedas encontrar usos con mis repositorios publicos. 
 
-Un poco más sobre mí:
+### Un poco más sobre mí:
 
 Tengo 32 años. Vivo en San Miguel (prov.BsAs). Trabajo hace 5 años en IT, en el área de datos en clientes del sector bancario.
 
