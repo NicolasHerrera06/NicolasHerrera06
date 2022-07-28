@@ -18,7 +18,11 @@ Tengo conocimiento en:
 - 📊 Herramientas de visualización: Power BI.
 - 🐍 Lenguajes de programación: Python(Numpy, Pandas), Java, Javascript.
 
+Contacto:
+- 📧 herreranicolasalberto@gmail.com
 
+Muchas gracias por tenerme en cuenta
+Saludos! 👋
 <!--
 **NicolasHerrera06/NicolasHerrera06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
