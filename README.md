@@ -37,6 +37,16 @@ Tengo conocimiento en:
 Contacto:
 - 📧 herreranicolasalberto@gmail.com
 
+#### ¿Hablamos?☕️
+
+
+<p align="left">
+<a href="https://www.linkedin.com/in/nicolasalbertoherrera/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="carlos salvador díaz" height="30" width="40" />linkedin</a>
+
+
+<a href="mailto:herreranicolasalberto@gmail.com " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="carlos salvador díaz" height="30" width="40" />herreranicolasalberto@gmail.com</a>
+</p>
+
 Muchas gracias por tenerme en cuenta
 
 Saludos! 👋
