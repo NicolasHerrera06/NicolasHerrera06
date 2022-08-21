@@ -22,7 +22,7 @@ Tengo 33 años. Vivo en San Miguel (prov.BsAs). Trabajo hace 5 años en IT, en e
 
 
 <p align="left">
-<a href="https://www.linkedin.com/in/nicolasalbertoherrera/" target="blank">  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lautarocelli" height="30" width="40" style="max-width: 100%;">
+<a href="https://www.linkedin.com/in/nicolasalbertoherrera/" target="blank">  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lautarocelli" height="30" width="40" style="max-width: 100%;">www.linkedin.com/in/nicolasalbertoherrera/</a>
   
 <a href="mailto:herreranicolasalberto@gmail.com " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="carlos salvador díaz" height="30" width="40" />herreranicolasalberto@gmail.com</a>
 </p>
