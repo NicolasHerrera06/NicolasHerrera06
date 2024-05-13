@@ -17,7 +17,7 @@ Tengo 34 años. Vivo en San Miguel (prov.BsAs). Trabajo hace 5 años en IT, en e
 - 🖥 Sistemas operativos UNIX (AIX), Linux. 
 - 📊 Herramientas de visualización: Power BI.
 - 🐍 Lenguajes de programación: Python(Numpy, Pandas), Java, Javascript.
-- ☁️ Plataformar cloud: Azure, GCP, conocimientos en AWS.
+- ☁️ Plataformas cloud: Azure, GCP, conocimientos en AWS.
 
 #### ¿Hablamos?☕️
 
