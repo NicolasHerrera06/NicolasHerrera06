@@ -4,7 +4,7 @@ Hola, soy Nicolás Herrera, soy Data Engineer y deseo que tu puedas encontrar us
 
 ### Un poco más sobre mí:
 
-Tengo 33 años. Vivo en San Miguel (prov.BsAs). Trabajo hace 5 años en IT, en el área de datos en clientes del sector bancario.
+Tengo 34 años. Vivo en San Miguel (prov.BsAs). Trabajo hace 5 años en IT, en el área de datos.
 
 📖 Soy una persona que le gusta estar en constante aprendizaje para formarme y crecer profesionalmente. 
 
@@ -13,10 +13,11 @@ Tengo 33 años. Vivo en San Miguel (prov.BsAs). Trabajo hace 5 años en IT, en e
 #### Tengo conocimientos sobre:
 
 - 💾 Bases de datos (SQL Server, Teradata, Sybase IQ, IBM Netezza). 
-- 💻 Herramientas de ETL: Ab Initio, SAP Data Services. 
+- 💻 Herramientas de ETL: Ab Initio, SAP Data Services, Data Factory, Databricks. 
 - 🖥 Sistemas operativos UNIX (AIX), Linux. 
 - 📊 Herramientas de visualización: Power BI.
 - 🐍 Lenguajes de programación: Python(Numpy, Pandas), Java, Javascript.
+- ☁️ Plataformar cloud: Azure, GCP, conocimientos en AWS.
 
 #### ¿Hablamos?☕️
 
